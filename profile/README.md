@@ -1,8 +1,5 @@
 ﻿<div align="center">
 
-<p align="center">
-  <img src="assets/gdg_certified.png" alt="Google Developer Groups On Campus • USTO-MB Certified" width="160" style="margin-bottom: 10px;" />
-</p>
 
 # Google Developer Groups on Campus — USTO-MB
 ### Université des Sciences et de la Technologie d'Oran Mohamed-Boudiaf (USTO-MB)
